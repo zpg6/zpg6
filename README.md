@@ -4,6 +4,7 @@
 
 ### About Me
 
+- 🚗 Employed at Genthem working on [ClimateSense](https://www.gentherm.com/en/solutions/automotive/climatesense)
 - 📲 I'm working in SwiftUI, Next.js, and AWS Amplify
 - 🌱 I’m learning React-Native
 - 👯 I’m looking to collaborate on tools that make devs smile.
