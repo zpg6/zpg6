@@ -4,7 +4,7 @@ Just starting out on my open source journey...
 
 ### About Me
 
-- 🚗 Employed at [Genthem](https://www.gentherm.com).
+- 🚗 Senior Software Engineer at [Genthem](https://www.gentherm.com).
 - 📲 I'm working in SwiftUI, Next.js, and AWS Amplify
 - 🌱 I’m learning React-Native
 - 👯 I’m looking to collaborate on tools that make devs smile.
